@@ -1,4 +1,4 @@
-# ⚡️ Boilerplate: Frontend with React + GraphQL + Apollo
+# ⚡️ Frontend with React + GraphQL + Apollo
 
 This project is an easy and fast way to start new projects in JavaScript. 
 The main goal is to provide two repositories: one for the backend and one for the frontend application. 
